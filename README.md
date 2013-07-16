@@ -3,6 +3,10 @@
 
 Opensource - Technology Assisted - Life-Support System for Humans (Designg Phase). Pull Requests &amp; Contributors Wellcome.
 
+It always seems impossible until its done.
+
+-- Nelson Mandela
+
 Hi,
 
 I'm [Costas Kirgoussios](http://gr.linkedin.com/in/ckirgoussios/)
